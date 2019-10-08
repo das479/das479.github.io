@@ -1,0 +1,5 @@
+# Configuration.yaml
+device_tracker
+    platform: meraki
+    secret: SecretCode
+    validator: 3e445b80ab8481720eb99d0dfdfaf9d5df1c4a81
